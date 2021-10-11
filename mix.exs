@@ -26,7 +26,7 @@ defmodule ExAws.Waf.MixProject do
       {:hackney, "~> 1.6", only: [:dev, :test]},
       {:poison, "~> 3.1", only: [:dev, :test]},
       {:jason, "~> 1.1", optional: true},
-      {:ex_aws, "~> 2.1.1"}
+      {:ex_aws, git: "https://github.com/JustinTangg/ex_aws"}
     ]
   end
 end

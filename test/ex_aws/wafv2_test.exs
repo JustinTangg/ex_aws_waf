@@ -1,5 +1,5 @@
-defmodule ExAws.WafTest do
+defmodule ExAws.Wafv2Test do
   use ExUnit.Case
-  doctest ExAws.Waf
+  doctest ExAws.Wafv2
 
 end
