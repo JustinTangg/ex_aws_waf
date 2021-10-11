@@ -1,8 +1,5 @@
-defmodule ExAws.Wafv2Test do
+defmodule ExAws.WafTest do
   use ExUnit.Case
-  doctest ExAws.Wafv2
+  doctest ExAws.Waf
 
-  test "greets the world" do
-    assert ExAws.Wafv2.hello() == :world
-  end
 end

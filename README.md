@@ -1,21 +1,21 @@
-# ExAws.Wafv2
+# ExAws.Waf
 
 **TODO: Add description**
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `ex_aws_wafv2` to your list of dependencies in `mix.exs`:
+by adding `ex_aws_waf` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:ex_aws_wafv2, "~> 0.1.0"}
+    {:ex_aws_waf, "~> 0.1.0"}
   ]
 end
 ```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/ex_aws_wafv2](https://hexdocs.pm/ex_aws_wafv2).
+be found at [https://hexdocs.pm/ex_aws_waf](https://hexdocs.pm/ex_aws_waf).
 
